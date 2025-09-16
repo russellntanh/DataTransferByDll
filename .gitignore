@@ -5,3 +5,12 @@ obj/
 *.user
 .vs/
 Debug/
+*.exe
+*.pdb
+
+# Nuget Package (for C#)
+packages/
+*.nupkg
+
+# vcpck (for C++)
+vcpkg
